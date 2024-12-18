@@ -20,3 +20,6 @@
 /javaLikeNames.txt
 /savedIndexNames.txt
 /variablesAndContainers.dat
+/nonChainingJarsCache
+/assumedExternalFilesCache
+/externalFilesCache
